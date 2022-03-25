@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 harsh wedding 
+=======
+harsh wedding
+>>>>>>> devlop
  print=date
  print=venue
  print=cateres
@@ -8,6 +12,7 @@ harsh wedding
  print= decoration
  print= cooler
  print= senitizer
+<<<<<<< HEAD
  print= soft driink
 
  before weddin sangit
@@ -20,3 +25,18 @@ harsh wedding
   print = starter
   print = main course
   print = drinks
+=======
+ print= soft drink
+
+
+reception ceremoney
+ print =starter 
+ print =dinner
+ print =colddrinks
+ 
+ else = dance
+     
+     print = dance group
+     print = solo dance
+     print = couple dance
+>>>>>>> devlop
